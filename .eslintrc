@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "plugins": ["flowtype"],
+  "rules": {
+    "flowtype/define-flow-type": 2
+  }
+}
